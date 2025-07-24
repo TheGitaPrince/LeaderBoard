@@ -8,9 +8,7 @@
 ![Leaderboard UI](client/public/image1.png)
 
 ### Claim History
-![Claim History](client/public/iamge.png)
-
-*(Change above filenames to match your screenshot files in your repo!)*
+![Claim History](client/public/image.png)
 
 ---
 
@@ -37,9 +35,3 @@
 - [TheGitaPrince (GitHub)](https://github.com/TheGitaPrince)
 
 ---
-
-> **Note:**  
-> Please replace the image paths in the markdown with your actual screenshot filenames that you place under `frontend/public/`.
-
----
-
