@@ -1,12 +1,45 @@
-# React + Vite
+- Open [`http://localhost:5173`](http://localhost:5173) in your browser (Vite default).
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 🎥 Screenshots
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Leaderboard
+![Leaderboard UI](client/public/image1.png)
 
-## Expanding the ESLint configuration
+### Claim History
+![Claim History](client/public/iamge.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+*(Change above filenames to match your screenshot files in your repo!)*
+
+---
+
+## 🛠️ Technologies Used
+
+- **Frontend:** React 19, Redux Toolkit, Tailwind CSS, Axios, React Hot Toast, React Icons, Vite
+- **Backend:** Node.js, Express, MongoDB
+- **Tooling:** ESLint, Vite, @tailwindcss/vite
+
+---
+
+## 📖 Project Details
+
+- Users can **add themselves** to the leaderboard, claim points, and view their claim history in real time.
+- All actions are validated and show toast notifications for better UX.
+- Backend stores leaderboard and history data securely (REST API).
+- **Modern, mobile-first design** with smooth transitions.
+
+---
+
+
+## 🧑‍💻 Author
+
+- [TheGitaPrince (GitHub)](https://github.com/TheGitaPrince)
+
+---
+
+> **Note:**  
+> Please replace the image paths in the markdown with your actual screenshot filenames that you place under `frontend/public/`.
+
+---
+
