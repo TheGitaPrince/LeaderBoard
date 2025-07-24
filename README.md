@@ -1,37 +1,57 @@
-- Open [`http://localhost:5173`](http://localhost:5173) in your browser (Vite default).
+# 🏆 Leaderboard App
+
+Live Demo 👉 [https://leader-board-gla6.vercel.app/](https://leader-board-gla6.vercel.app/)
+
+A real-time leaderboard web application where users can add themselves, claim points, and view their activity history. Built with MERN stack & modern UI tools.
 
 ---
 
-## 🎥 Screenshots
+## 📸 Screenshots
 
-### Leaderboard
+### 📊 Leaderboard UI
 ![Leaderboard UI](client/public/image1.png)
 
-### Claim History
+### 📜 Claim History
 ![Claim History](client/public/image.png)
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
-- **Frontend:** React 19, Redux Toolkit, Tailwind CSS, Axios, React Hot Toast, React Icons, Vite
-- **Backend:** Node.js, Express, MongoDB
-- **Tooling:** ESLint, Vite, @tailwindcss/vite
+### Frontend
+- **React 19**
+- **Redux Toolkit** – State Management
+- **Tailwind CSS** – Utility-First CSS Framework
+- **Vite** – Fast Development Server
+- **Axios** – API Requests
+- **React Hot Toast** – Toast Notifications
+- **React Icons**
+
+### Backend
+- **Node.js + Express**
+- **MongoDB** – NoSQL Database
+
+### Tooling
+- **ESLint** – Linting & Code Quality
+- **@tailwindcss/vite** – Vite + Tailwind Integration
+
+---
+
+## 🚀 Features
+
+- 🔼 Add yourself to the leaderboard.
+- 🎯 Claim points daily / periodically.
+- 📈 View your complete claim history.
+- 📦 Real-time updates (Redux state)
+- ✅ Input validation and toast notifications.
+- 📱 Mobile-first, sleek and responsive design.
+- 🔐 Secure API with backend validations.
 
 ---
 
-## 📖 Project Details
+## 🧪 Local Development
 
-- Users can **add themselves** to the leaderboard, claim points, and view their claim history in real time.
-- All actions are validated and show toast notifications for better UX.
-- Backend stores leaderboard and history data securely (REST API).
-- **Modern, mobile-first design** with smooth transitions.
+To run this project locally:
 
----
+### 1. Clone the Repository
 
-
-## 🧑‍💻 Author
-
-- [TheGitaPrince (GitHub)](https://github.com/TheGitaPrince)
-
----
